@@ -1,0 +1,11 @@
+{
+  "name": "coup-multiplayer-server",
+  "version": "1.0.0",
+  "main": "coup-server.js",
+  "scripts": {
+    "start": "node coup-server.js"
+  },
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
